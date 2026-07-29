@@ -1,21 +1,21 @@
 [submodule "core"]
 	path = core
-	url = ../core.git
+	url = ../JetOnlyOffice-core.git
 [submodule "core-fonts"]
 	path = core-fonts
-	url = ../core-fonts.git
+	url = ../JetOnlyOffice-core-fonts.git
 [submodule "dictionaries"]
 	path = dictionaries
-	url = ../dictionaries.git
+	url = ../JetOnlyOffice-dictionaries.git
 [submodule "sdkjs"]
 	path = sdkjs
-	url = ../sdkjs.git
+	url = ../JetOnlyOffice-sdkjs.git
 [submodule "server"]
 	path = server
-	url = ../server.git
+	url = ../JetOnlyOffice-server.git
 [submodule "web-apps"]
 	path = web-apps
-	url = ../web-apps.git
+	url = ../JetOnlyOffice-web-apps.git
 [submodule "sdkjs-plugins/plugin-highlightcode"]
 	path = sdkjs-plugins/plugin-highlightcode
 	url = ../plugin-highlightcode
